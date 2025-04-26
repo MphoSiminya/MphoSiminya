@@ -23,6 +23,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MphoSiminya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+<!-- snake animation code -->
+<div align="center">
+  
+  ![snake gif](https://github.com/MphoSiminya/MphoSiminya/blob/output/github-snake-dark.svg)
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
