@@ -1,4 +1,4 @@
-![Github image](https://github.com/user-attachments/assets/734a7223-eef7-4011-8b94-42af8cc8c759)
+![Github image](https://github.com/user-attachments/assets/c3e6bb66-82d7-4915-a243-d129ccd98130)
 
 # 💫 About Me:
 #### 🎓 Computer Science major
