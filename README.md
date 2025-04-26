@@ -1,11 +1,11 @@
 # 💫 About Me:
-🎓 Computer Science major
-🎨 Passionate about UI/UX design
-🎮 Love game development
-🛡️ Interested in cybersecurity
-🖥️ Always learning and building cool projects
-🤝 Open to collaboration and new ideas
-🎲 Fun fact: I’m a big fan of gaming — it inspires a lot of my work!
+#### 🎓 Computer Science major
+#### 🎨 Passionate about UI/UX design
+#### 🎮 Love game development
+#### 🛡️ Interested in cybersecurity
+#### 🖥️ Always learning and building cool projects
+#### 🤝 Open to collaboration and new ideas
+#### 🎲 Fun fact: I’m a big fan of gaming — it inspires a lot of my work!
 
 
 ## 🌐 Socials:
