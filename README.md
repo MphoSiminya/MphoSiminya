@@ -1,3 +1,5 @@
+![Github image](https://github.com/user-attachments/assets/734a7223-eef7-4011-8b94-42af8cc8c759)
+
 # 💫 About Me:
 #### 🎓 Computer Science major
 #### 🎨 Passionate about UI/UX design
