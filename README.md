@@ -1,4 +1,4 @@
-![Github image](https://github.com/user-attachments/assets/c3e6bb66-82d7-4915-a243-d129ccd98130)
+![Github image](./assests/Software%20Developer%20•%20AI%20•%20Game%20Development%20•%203D%20•%20Creative%20Technology.gif)
 
 # 💫 About Me:
 #### 🎓 Computer Science major
